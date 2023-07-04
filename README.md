@@ -1,8 +1,6 @@
 # assessment_2
 ## SPDX-License-Identifier: MIT
 
-This repository does not have a specified license, indicating that the code is not licensed for public use. Please consult the owner or creator of this code for more information.
-
 ## Solidity Version
 
 The code is written in Solidity version 0.8.9. Make sure you have the appropriate Solidity compiler installed to compile and interact with this code.
